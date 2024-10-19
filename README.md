@@ -1,3 +1,4 @@
+# French
 Tu modifies les motsCles
 
 Tu modifies le cheminDossier
@@ -13,7 +14,7 @@ tu lances le script
 
 et voilà.
 
-
+# English
 Modify "motsCles" to match the word that may contain personnal information
 
 Modify "CheminDossier" wich is the folder of the messages from your packages
