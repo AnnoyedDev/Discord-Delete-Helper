@@ -12,3 +12,15 @@ Set-ExecutionPolicy unrestricted
 tu lances le script
 
 et voilà.
+
+
+Modify "motsCles" to match the word that may contain personnal information
+
+Modify "CheminDossier" wich is the folder of the messages from your packages
+
+"CheminFichierSortie" is output file location
+
+```
+Set-ExecutionPolicy unrestricted
+```
+Run it.
